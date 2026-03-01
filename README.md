@@ -87,11 +87,11 @@
 ## 🚀 Interests & Goals
 
 ```text
-💻  Full Stack Development     ████████████████████  100%
-🎨  UI / UX Design             ██████████████████░░   90%
-🌐  Modern Web Technologies    ████████████████░░░░   80%
-📱  Responsive Design          ███████████████████░   95%
-🔧  Problem Solving            ████████████████████  100%
+💻  Full Stack Development     ███████████████████░   97%
+🎨  UI / UX Design             █████████████████░░░   93%
+🌐  Modern Web Technologies    ████████████████░░░░   90%
+📱  Responsive Design          ██████████████████░░   95%
+🔧  Problem Solving            █████████████████░░░   93%
 ```
 
 ---
