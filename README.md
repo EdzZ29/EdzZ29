@@ -3,8 +3,6 @@
 # Hi there, I'm Edmundo Ederio 👋
 ### IT Graduate · Full Stack Developer · UI/UX Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Web+Developer;UI%2FUX+Designer;Always+Learning%2C+Always+Building+✨" alt="Typing SVG" />
-
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-EdmundoEderio-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EdmundoEderio)
